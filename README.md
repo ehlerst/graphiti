@@ -41,6 +41,9 @@ Graphiti is a very simple ruby 1.9.2/Sinatra (http://sinatrarb.com) backend that
 * Redis (>2)
 * Unicorn
 * RubyGems and various Gems (see Gemfile)
+ 
+
+### Optional Dependencies
 * S3 Access (Credentials stored in seperate .yml file)
 
 ## Setup/Installation
